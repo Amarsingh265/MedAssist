@@ -1,0 +1,9 @@
+{
+  "name": "MedAssist GreenCare",
+  "short_name": "GreenCare",
+  "description": "Health education and care navigation",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F4F8F6",
+  "theme_color": "#087F5B"
+}
